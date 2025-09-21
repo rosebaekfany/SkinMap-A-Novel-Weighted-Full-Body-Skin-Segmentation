@@ -1,0 +1,1 @@
+# SkinMap-A-Novel-Weighted-Full-Body-Skin-Segmentation
