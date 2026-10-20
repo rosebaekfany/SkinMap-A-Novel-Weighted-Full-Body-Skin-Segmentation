@@ -1,4 +1,4 @@
-# SkinMap-A-Novel-Weighted-Full-Body-Skin-Segmentation
+# SkinMap: A Novel Weighted Full-Body Skin Segmentation for Robust rPPG
 
 This repository accompanies the paper:
 
@@ -22,6 +22,11 @@ This repository accompanies the paper:
 
 ## About
 
-This project a part of my **bachelor’s thesis**, where we developed **SkinMap**, a weighted full-body skin segmentation model designed to improve the robustness of remote photoplethysmography (rPPG) under challenging scenarios such as head movement, talking, and varying lighting conditions.  
+This project is part of my **bachelor’s thesis**, where we developed **SkinMap**, a weighted full-body skin segmentation model designed to improve the robustness of remote photoplethysmography (rPPG) under challenging scenarios such as head movement, talking, and varying lighting conditions.  
 
 ---
+
+## Related repositories
+
+- [Skin-Segmentation](https://github.com/rosebaekfany/Skin-Segmentation) — earlier work enhancing MediaPipe skin segmentation with classical colour-space methods
+- [Remote-PPG](https://github.com/rosebaekfany/Remote-PPG) — signal processing of rPPG signals
